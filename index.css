@@ -1,0 +1,45 @@
+/*My CSS File*/
+
+/*CSS Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*body*/
+body {
+	background-color: #ECF2FF;
+	
+}
+
+/*Russo Font*/
+.font-russo {
+	font-family: 'Russo One', sans-serif;
+}
+
+/*Crushed Font*/
+.font-crushed {
+	font-family: 'Crushed', cursive;
+}
+
+.font-righteous {
+	font-family: 'Righteous', cursive;
+}
+
+/*web background*/
+.bg-imgbg {
+	background-image: url("./images/imgbg.jpg");
+}
+
+.alex-background {
+
+	background-image: url("./images/brushbg1.png");
+}
+
+.bg-bg {
+	background-color: #ECF2FF;
+	
+}
+
+
